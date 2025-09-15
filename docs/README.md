@@ -1,0 +1,1 @@
+Este diretório contém os arquivos do site para publicação via GitHub Pages.
